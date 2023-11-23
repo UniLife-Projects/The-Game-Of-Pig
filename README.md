@@ -1,4 +1,4 @@
-# [The-Game-Of-Pig](https://uche-jordy-game-of-pig.netlify.app/)
+# [The-Game-Of-Pig 🎲](https://uche-jordy-game-of-pig.netlify.app/)
 
 #### Play [Here](https://uche-jordy-game-of-pig.netlify.app/)
 
